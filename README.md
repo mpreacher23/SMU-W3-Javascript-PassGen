@@ -38,10 +38,8 @@ The following image demonstrates the application functionality:
 
 ## Review
 
-You are required to submit the following for review:
+* The URL of the deployed application. 
+https://mpreacher23.github.io/SMUW3-Javascript-PassGen/
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 - - -
